@@ -1,8 +1,11 @@
 .item{
-    width: 350px;
+    width: 250px;
 
 }
-
+.item img{
+    width: 250px;
+    background:contain ;
+}
 .item p{
     margin: 6px 0px;
 }
